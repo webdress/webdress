@@ -3,16 +3,16 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://github.com/iamprogrammerlk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+  <a href="https://github.com/webdress/webdress">
+    <img src="https://avatars.githubusercontent.com/u/196608501?v=4" alt="webdress" width="200">
   </a>
 </div>
 
 <br><br>
 
-# PROJECT_TITLE
+# WebDress
 
-### PROJECT_DESCRIPTION
+### A sleek, open-source, UI framework to effortlessly style and design modern, responsive websites. Dressed up your web designing projects with ease
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
